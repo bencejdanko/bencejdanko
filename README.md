@@ -1,3 +1,1 @@
-Software I recommend:
-- ngrok
-- Polypane
+I'm interested in designing and manufacturing intelligent AR glasses, similar to the Meta Ray-Bans. I own a Bambu P2S printer, have some knowledge about computer vision, generative models, embedded hardware, and ML/DL concepts. If you are interested in collaborating, please contact me: https://bence.openwear.ai
